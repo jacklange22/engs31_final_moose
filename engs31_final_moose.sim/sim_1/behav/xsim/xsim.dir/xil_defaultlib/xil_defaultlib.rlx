@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+O:/engs31_final_moose/engs31_final_moose.srcs/sim_1/new/SCI_rx_tb.vhd,1716311365,vhdl,,,,tb_sci_receiver,,,,,,,,
+O:/engs31_final_moose/engs31_final_moose.srcs/sim_1/new/top_shell_tb.vhd,1716313257,vhdl,,,,topshell_tb,,,,,,,,
+O:/engs31_final_moose/engs31_final_moose.srcs/sources_1/new/MUX.vhd,1716311934,vhdl,O:/engs31_final_moose/engs31_final_moose.srcs/sources_1/new/top_level.vhd,,,mux7seg,,,,,,,,
+O:/engs31_final_moose/engs31_final_moose.srcs/sources_1/new/SCI_rx.vhd,1716311307,vhdl,O:/engs31_final_moose/engs31_final_moose.srcs/sources_1/new/top_level.vhd,,,sci_receiver,,,,,,,,
+O:/engs31_final_moose/engs31_final_moose.srcs/sources_1/new/top_level.vhd,1716313149,vhdl,O:/engs31_final_moose/engs31_final_moose.srcs/sim_1/new/top_shell_tb.vhd,,,topshell,,,,,,,,

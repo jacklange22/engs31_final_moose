@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../engs31_final_moose.srcs/sources_1/new/MUX.vhd" \
+"../../../../engs31_final_moose.srcs/sources_1/new/SCI_rx.vhd" \
+"../../../../engs31_final_moose.srcs/sources_1/new/top_level.vhd" \
+"../../../../engs31_final_moose.srcs/sim_1/new/top_shell_tb.vhd" \
+
+# Do not sort compile order
+nosort
